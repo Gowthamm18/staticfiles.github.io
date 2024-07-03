@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.mainheading {
+    color: #1f2933;
+    font-family: "Bree Serif";
+}
+
+.feautureimg {
+    height: 60px;
+    width: 60px;
+}
+
+.fh1 {
+    font-size: 25px;
+    color: #1f2933;
+}
+
+.fp {
+    color: #7b8794;
+}
+
+.bolding {
+    font-weight: bold;
+    color: black;
+}
+
+
+
+
+
+
+.kitimg {
+    height: 200px;
+    width: 160px;
+}
+
+.kitheading {
+    color: #1f2933;
+    font-family: "Bree Serif";
+}
+
+.kitpara {
+    color: #323f4b;
+    font-weight: solid;
+    font-size: 20px;
+}
+
+.bg-kit {
+    background-color: #f9fbfe;
+}
+
+
+
+
+
+.backgroundcontainercontact {
+    background-color: #222b36;
+    height: 100vh;
+
+}
+
+.vrimage {
+    width: 100%;
+}
+
+.contacthead {
+    color: white;
+    font-size: 42px;
+}
+
+.contactbutton {
+    color: white;
+    background-color: transparent;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+
+
+
+.controllerimg {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.controllerhead {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.controllerpara {
+    color: #7b8794;
+}
+
+.custombutton {
+    color: white;
+    background-color: #1a2137;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 4px;
+}
+
+
+
+
+
+.trendingimg {
+    width: 100%;
+}
+
+.trendingpara {
+    color: #959ead;
+}
+
+.paragraphtrending {
+    font-family: "Bree Serif";
+    color: #1a2137;
+}
+
+.trendinghead {
+    font-family: "Bree Serif";
+    font-size: 3;
+    color:#1a2137;
+}
+
+
+.productsbackgroundimage1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+.productsbackgroundimage2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;}
+
+.productcard{ width:100%;
+    height: 600px;
+}
+
+h1 {
+    color:#1a2137;
+    font-family: "Bree Serif";
+}
+
+.producthead {
+    color: white;
+}
+
+.cost{
+    color: white;
+}
+
+.buybutton {
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: white;
+    width:120px;
+    height:40px;
+}
+
+
+
+.cont1 {
+    background-color: #19232d;
+    height: auto;
+    width: auto;
+}
+
+.img1 {
+    height: 50px;
+    width: 76px;
+}
+
+.cont1-img1 {
+    text-align: center;
+}
+
+.icon {
+    font-size: 23px;
+    color: #5a7184;
+}
+
+.icon-cont1 {
+    width: 63px;
+    height: 63px;
+    background-color: #202b36;
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-right: 18px;
+    padding-left: 20px;
+    margin: 6px;
+    border-radius: 40px;
+}
+
+.para1 {
+    color: #5a7184;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+hr {
+    border-color: #5a7184;
+}
